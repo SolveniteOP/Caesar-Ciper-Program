@@ -2,16 +2,6 @@
 
 This project is a simple Python program that implements the Caesar Cipher, a basic encryption technique where each letter in the plaintext is shifted by a fixed number of places down or up the alphabet. The program allows users to both encrypt and decrypt messages using this method.
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [How It Works](#how-it-works)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## About the Project
 
 The Caesar Cipher is one of the oldest known encryption techniques, named after Julius Caesar, who reportedly used it to communicate with his officials. This project demonstrates the fundamental principles of cryptography by providing a simple yet effective way to encrypt and decrypt messages using Python.
